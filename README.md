@@ -1,6 +1,6 @@
 # Información
-Este aplicativo tiene como fin traer informacion de una api de paises llamada [REST Countries](https://restcountries.com/#endpoints-translation) y mostar informacion relevante
-de cada pais se puede buscar por pais, por capital, o por region. Ademas me permite tener una persistencia de datos mediante el LocalStorage. La pagina web queda desplegada en mi repositorio por si lo desean ver funcionando. utilizo GitHubPages
+Este aplicativo tiene como fin traer informacion de una api de paises llamada [REST Countries](https://restcountries.com/#endpoints-translation) y muesta la informacion relevante
+de cada pais. Se puede buscar por pais, por capital o por region. Ademas me permite tener una persistencia de datos mediante el LocalStorage. La pagina web queda desplegada en mi repositorio por si lo desean ver funcionando. utilizo GitHubPages
 
 
 # Busqueda por País  
