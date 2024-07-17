@@ -1,8 +1,9 @@
+<!-- (keyup.enter)="emitCapital()" -->
 <input
   type="text"
-  [placeholder]="placeholder"
   class="form-control"
-  (keyup.enter)="emitCapital()"
+  [placeholder]="placeholder"
+  (keyup)="onKeyPress(txtInput.value)"
   #txtInput
 >
 <hr>
